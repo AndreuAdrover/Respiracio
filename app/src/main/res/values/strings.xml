@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Respiracio</string>
+
+    <string name="fase1">Inhalación</string>
+    <string name="fase2">Retención</string>
+    <string name="fase3">Exhalación</string>
+    <string name="fase4">Pausa</string>
+    <string name="button_text_stop">Pause</string>
+    <string name="button_text_start">Start</string>
+    <string name="reset_button_text">Reset</string>
+</resources>
